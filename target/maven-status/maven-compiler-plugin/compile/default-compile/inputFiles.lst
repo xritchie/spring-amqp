@@ -1,0 +1,7 @@
+/Users/shawnritchie/spring-ampq/src/main/java/spittr/alerts/AlertService.java
+/Users/shawnritchie/spring-ampq/src/main/java/spittr/alerts/AlertServiceImpl.java
+/Users/shawnritchie/spring-ampq/src/main/java/spittr/alerts/SpittleAlertHandler.java
+/Users/shawnritchie/spring-ampq/src/main/java/spittr/message/ProducerMain.java
+/Users/shawnritchie/spring-ampq/src/main/java/spittr/message/ConsumerMain.java
+/Users/shawnritchie/spring-ampq/src/main/java/spittr/domain/Spitter.java
+/Users/shawnritchie/spring-ampq/src/main/java/spittr/domain/Spittle.java

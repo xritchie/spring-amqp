@@ -1,0 +1,7 @@
+spittr/domain/Spitter.class
+spittr/domain/Spittle.class
+spittr/message/ConsumerMain.class
+spittr/alerts/SpittleAlertHandler.class
+spittr/alerts/AlertService.class
+spittr/message/ProducerMain.class
+spittr/alerts/AlertServiceImpl.class
